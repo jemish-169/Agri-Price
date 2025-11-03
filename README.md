@@ -39,18 +39,9 @@
 
 ## Screenshots
 
-| Crop According | Market According |
+| | |
 |-------------|-------------|
-| ![1](https://github.com/user-attachments/assets/c2b5cf26-e8db-4a2f-8459-67b9a52d1d93) | ![2](https://github.com/user-attachments/assets/86b5ff8e-ad29-4390-9c29-ecd6ace5f494) |
-
-| Crop Selection | Crop Detail |
-|-------------|-------------|
-| ![3](https://github.com/user-attachments/assets/6abd931b-067e-4615-b1ed-e57bb94406a3) | ![4](https://github.com/user-attachments/assets/1d12cc56-dda1-4284-9afc-bce33eacad57) |
-
-| Market Selection | Market Detail |
-|-------------|-------------|
-| ![5](https://github.com/user-attachments/assets/5f1d9794-1444-45e0-a0fa-300a6fef6ed3) | ![6](https://github.com/user-attachments/assets/868c9e9d-1a55-4e0a-89f3-39ccfdd27610) |
-
-| Date Selection | History Screen |
-|-------------|-------------|
-| ![7](https://github.com/user-attachments/assets/fae72c0d-d3b0-430e-b661-304e2b9e274a) | ![Screenshot_2025-07-25-02-44-38-387_com elite agriprice](https://github.com/user-attachments/assets/47ca62d0-e706-4742-8471-ec2dde9b6658) |
+| ![1](Agri-Price%20app%20ss/1.png) | ![2](Agri-Price%20app%20ss/2.png) |
+| ![3](Agri-Price%20app%20ss/3.png) | ![4](Agri-Price%20app%20ss/4.png) |
+| ![5](Agri-Price%20app%20ss/5.png) | ![6](Agri-Price%20app%20ss/6.png) |
+| ![7](Agri-Price%20app%20ss/7.png) | ![8](Agri-Price%20app%20ss/8.png) |
