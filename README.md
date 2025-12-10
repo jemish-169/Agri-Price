@@ -39,9 +39,18 @@
 
 ## Screenshots
 
-| | |
-|-------------|-------------|
-| ![1](Agri-Price%20app%20ss/1.png) | ![2](Agri-Price%20app%20ss/2.png) |
-| ![3](Agri-Price%20app%20ss/3.png) | ![4](Agri-Price%20app%20ss/4.png) |
-| ![5](Agri-Price%20app%20ss/5.png) | ![6](Agri-Price%20app%20ss/6.png) |
-| ![7](Agri-Price%20app%20ss/7.png) | ![8](Agri-Price%20app%20ss/8.png) |
+
+<table>
+  <tr>
+    <td align="center"><img src="Agri-Price%20app%20ss/1.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/2.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/3.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/4.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Agri-Price%20app%20ss/5.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/6.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/7.png" width="250"/></td>
+    <td align="center"><img src="Agri-Price%20app%20ss/8.png" width="250"/></td>
+  </tr>
+</table>
