@@ -28,7 +28,7 @@
   - **Material Design** – Follows Google’s UI/UX guidelines for intuitive design  
   - **Animations** – Enhances user experience with meaningful transitions and effects
   - **Room Database** – For offline first approach and serving cached data on failure
-  - **Navigation-3** – Navavigation between modules with Back-stack ownership
+  - **Navigation-3** – Navigation between modules with Back-stack ownership
   - **Jetpack-DataStore** – Flow based user preference saving
 
 - **Backend**:
